@@ -10,9 +10,6 @@ EveryWorkflowPageBundle:
 EveryWorkflowUrlRewriteBundle:
     resource: '@EveryWorkflowUrlRewriteBundle/Resources/config/routes.yaml'
 
-EveryWorkflowFrontendBundle:
-    resource: '@EveryWorkflowFrontendBundle/Resources/config/routes.yaml'
-
 # EveryWorkflowCmsBundle_Controller:
 #     resource: "../../Controller/"
 #     type: annotation
