@@ -16,7 +16,8 @@
         "everyworkflow/page-bundle": "dev-main",
         "everyworkflow/url-rewrite-bundle": "dev-main",
         "everyworkflow/static-block-bundle": "dev-main",
-        "everyworkflow/frontend-bundle": "dev-main"
+        "everyworkflow/menu-bundle": "dev-main",
+        "everyworkflow/front-panel-bundle": "dev-main"
     },
     "autoload": {
         "psr-4": {
